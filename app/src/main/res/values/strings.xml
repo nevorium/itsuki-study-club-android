@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Itsuki Study Club</string>
+    <string name="offline_title">Koneksi Terputus</string>
+    <string name="offline_message">Perangkat tidak terhubung ke internet. Periksa jaringan seluler atau Wi-Fi Anda lalu coba lagi.</string>
+    <string name="load_error_title">Halaman Gagal Dimuat</string>
+    <string name="retry_button">Coba Lagi</string>
+</resources>
